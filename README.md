@@ -1,4 +1,4 @@
-# expenses
+# learningflutter
 
 A new Flutter project.
 
